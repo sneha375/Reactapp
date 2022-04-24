@@ -1,0 +1,16 @@
+.AmountStyle{
+    background-color: teal;
+    width:fit-content;
+    margin-left:900px;
+    justify-content: center;
+    text-align:center;
+    padding:0.5rem;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 8pb rgbs(0,0,0,0.25);
+    padding:0.5rem;
+    border-radius: 12px;
+   
+
+}
